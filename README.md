@@ -1,2 +1,0 @@
-# ganesh1
-Programming
